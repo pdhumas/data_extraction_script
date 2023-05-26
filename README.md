@@ -19,7 +19,7 @@
     * Files included are-
       - dataset_story.txt - the answer to the question asked
     * Overview on how I came upon this -
-      - So, after hearing this question i was a bit confused as how to approach it cause yea I've mostly played with Kaggle datasets and any other dataset didn't quite struck in my mind. So I ventured to find a new dataset which is interesting and I genuinely might like and then I stumbled upon World Bank's datasets among which I found data set named World Development Indicator and after analysing the database and seeing how it's curated and what things it is  actually capable of I found it quite interesting.
+      - After hearing this question I was a bit confused as how to approach it cause yea I've mostly played with Kaggle datasets and any other dataset didn't quite struck in my mind. So, I ventured to find a new dataset which I might genuinely like and then I finally stumbled upon World Bank's datasets among which I found data set named World Development Indicator and after analysing the dataset and seeing how it's curated and what things it is actually capable of I found it quite interesting.
 * Q3
   **Extracting required data from a URL**
     * Files included are-
