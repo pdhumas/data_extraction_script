@@ -10,8 +10,8 @@
     * General overview of the code -
       - Created module named checker.py and drivercode file for it named driver.py
       - The code reads the racial_slurs.txt file and tweets.txt file and processes them and following things are done 
-         - > The tweets are seperated into sentences list
-         - > The sentence in this list is further stripped of any punctuations and turned to lower case
+         -- The tweets are seperated into sentences list
+         -- The sentence in this list is further stripped of any punctuations and turned to lower case
       - Further, each sentence in the tweet is checked for racial slurs
       - The count of racial slurs is then used to get degree of profanity which equals -> (count of racial slurs) / (number of words in sentence)
 * Q3
