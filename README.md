@@ -1,4 +1,8 @@
-# data_extraction_script
+# A brief outline for questions solution 
+*Q1
+
+
+*Q3
 Extracting required data from a URL 
 Code first downloads the txt file from the given URL
 
