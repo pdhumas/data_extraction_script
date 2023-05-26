@@ -14,8 +14,7 @@
          - The sentence in this list is further stripped of any punctuations and turned to lower case
       - Further, each sentence in the tweet is checked for racial slurs
       - The count of racial slurs is then used to get degree of profanity which equals -> (count of racial slurs) / (number of words in sentence)
-
-*Q3
+* Q3
   **Extracting required data from a URL**
     * Files included are-
       extract_data.sh - the shell script to get the extracted data as specified in the question
