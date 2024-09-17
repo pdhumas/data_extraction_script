@@ -17,7 +17,7 @@ def get_slurs_set(file):
 # stripping any whitespaces and storing as a set
     r_slurs = set(word.strip() for word in re.split(",", file))
     return r_slurs
-
+##hello
 #function to split tweets
 def split_tweet(line):
     string_list = sent_tokenize(line)
